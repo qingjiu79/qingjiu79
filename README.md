@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @qingjiu79
-- 👀 I’m interested in xda;phtyon;
+- 👀 I’m interested in xda;phtyon;kali;
 - 🌱 I’m currently learning phtyon
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on kali learning
+- 📫 How to reach me？
+- you can email me at 2052357069@qq.com
  -
 <!---
 qingjiu79/qingjiu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
